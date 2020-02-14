@@ -1,0 +1,20 @@
+<body style="background-image: url('background.PNG');">
+
+
+$(function(){
+		
+		$('#login').on('click',function(e){
+			$('.form1').css('display','none');
+			$('.form2').css('display','inline');
+			e.preventDefault();
+			
+		});
+		
+		
+	});
+
+
+<-------https://www.youtube.com/watch?v=ccDCTcccnOA-------->
+
+
+Server Properties---check it out
